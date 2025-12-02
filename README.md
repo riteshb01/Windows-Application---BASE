@@ -6,6 +6,8 @@ A C# WinForms application for managing tech gadget collections, demonstrating ob
 Add Gadgets - Input name, brand, price, category, purchase date, and warranty information
 View Collection - Display all gadgets in a DataGridView with sortable columns
 Warranty Tracking - Track warranty periods for each gadget
+
+
 🏗️ Architecture
 This project demonstrates object-oriented programming principles:
 
